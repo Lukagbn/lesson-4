@@ -1,0 +1,48 @@
+.logo,
+header nav a {
+  text-decoration: none;
+}
+header ul {
+  list-style: none;
+}
+.logo {
+  color: #000000;
+}
+header nav a {
+  color: #707070;
+  font-size: 20px;
+  letter-spacing: 0.2px;
+}
+main section img {
+  max-width: 1640px;
+  height: 613px;
+  width: 100%;
+  object-fit: cover;
+}
+footer {
+  background-color: #2e2e2e;
+}
+footer ul {
+  list-style: none;
+}
+footer nav a {
+  text-decoration: none;
+  color: #ffffff;
+}
+footer p {
+  font-size: 13px;
+  color: #ffffff;
+  letter-spacing: 0.13px;
+}
+.contact-heading {
+  font-size: 20px;
+  letter-spacing: 0.2px;
+}
+.address-heading {
+  font-size: 19px;
+  letter-spacing: 0.19px;
+}
+footer nav img {
+  width: 44px;
+  height: 44px;
+}
